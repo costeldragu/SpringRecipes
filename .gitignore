@@ -7,7 +7,7 @@
 *.dmg
 *.gz
 *.bz2
-*.iso
+*.isok
 *.jar
 *.rar
 *.tar
@@ -48,4 +48,4 @@ markup
 /Vagrantfile
 out
 /out/*
-src/
+
